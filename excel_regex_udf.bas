@@ -1,7 +1,7 @@
 Option Explicit
 
 ' All functions in this module assume:
-'     "Tools>References>Microsoft VBScript Regular Expressions" is referenced.
+'     "Tools>References>Microsoft VBScript Regular Expressions 5.5" is referenced.
 ' Windows only, will not work on a Mac (Sorry!)
 
 
