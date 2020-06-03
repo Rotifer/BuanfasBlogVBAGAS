@@ -1,7 +1,8 @@
 Option Explicit
 
 ' Excel VBA impmlementations of Google Sheets Regex functions
-
+' For more details, see:
+'   blog post https://buanfas.blogspot.com/2020/06/implement-google-sheets-regular.html
 ' All functions in this module assume:
 '     "Tools>References>Microsoft VBScript Regular Expressions 5.5" is referenced.
 ' Windows only, will not work on a Mac (Sorry!)
