@@ -8,4 +8,4 @@
 
 ## Disclaimer
 
-Please feel free to use the code included in this blog but remember that you use it at your risk. Code copied from any source should be checked and debugged so that it does what you intend it to do and does not do corrupt your data or compromise your data security.
+Please feel free to use the code included in this blog but remember that you use it at your risk. Code copied from any source should be checked and debugged so that it does what you intend it to do and does not corrupt your data or compromise your data security.
